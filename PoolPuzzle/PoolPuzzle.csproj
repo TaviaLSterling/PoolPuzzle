@@ -52,6 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="INose.cs" />
     <Compile Include="Of76.cs" />
     <Compile Include="Picasso.cs" />
     <Compile Include="Program.cs" />
